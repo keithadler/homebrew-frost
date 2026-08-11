@@ -3,8 +3,8 @@ class Frost < Formula
 
   desc "Readable shell scripting language that is auditable before it runs"
   homepage "https://github.com/keithadler/frost"
-  url "https://files.pythonhosted.org/packages/b6/b9/89ceec562d99389583537ea5e375659de366ae0362f4ee83dbdded1e2d26/frostlang-0.9.1.tar.gz"
-  sha256 "588c451c83631c4f4e9d267526efdc8c19ae68b53a5328bb89ebb6bdbd59ea97"
+  url "https://files.pythonhosted.org/packages/06/b2/77f3a32f766df7ca389a59ad9d3ecc1758a5382f8e4d5d02823323f70713/frostlang-0.9.4.tar.gz"
+  sha256 "8d768314a9e5d46169b411031f028308a9e246eebf1c6ad4e93a133282c5b68b"
   license "MIT"
 
   depends_on "python@3.12"
